@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloApp</string>
+    <string name="app_intro">Hello, my name is Ian. I like to think of myself as a funny programmer.</string>
+</resources>
